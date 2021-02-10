@@ -1,0 +1,54 @@
+main{
+
+    
+    margin: auto;
+    background-color: rgb(190, 183, 183);
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+}
+
+.main-container {
+    
+   
+    
+    background-color: red;
+    height: 200px;
+    border-radius:5%;  
+}
+div {
+    text-align:center;
+}
+.hello {
+    font-stretch: extra-expanded;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+    font-size: 60px;
+    
+}
+.name-is {
+
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    
+}
+
+.sub-container {
+    border-radius: 0%;
+    padding: 27px 27px;
+    background-color: white;
+   
+}
+
+.my-name {
+    font-size: 20px;
+    font-family: cursive;
+   
+    
+    
+    
+    
+    
+}
